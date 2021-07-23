@@ -1,1 +1,1 @@
-print("esse é um novo hellor world")
+print("esse é um novo hello world")
